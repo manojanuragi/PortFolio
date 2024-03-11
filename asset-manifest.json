@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.9ad331e6.css",
+    "main.js": "/my-app/static/js/main.3a969d82.js",
+    "static/js/453.1407b060.chunk.js": "/my-app/static/js/453.1407b060.chunk.js",
+    "static/media/food.png": "/my-app/static/media/food.6aa640d0af47b6f5f3c3.png",
+    "static/media/Quiz.png": "/my-app/static/media/Quiz.c9ea15b3b871d646e90d.png",
+    "static/media/ecommerce.png": "/my-app/static/media/ecommerce.6d33e1be8a984f4b8bb7.png",
+    "static/media/manoj_hero.jpg": "/my-app/static/media/manoj_hero.9bad904778c1cfc1b28c.jpg",
+    "static/media/LinkedIn_icon.svg.png": "/my-app/static/media/LinkedIn_icon.svg.72097b5277a499b1902f.png",
+    "static/media/phone-call.svg": "/my-app/static/media/phone-call.bed680032cfe3c2102121544056b99ed.svg",
+    "index.html": "/my-app/index.html",
+    "main.9ad331e6.css.map": "/my-app/static/css/main.9ad331e6.css.map",
+    "main.3a969d82.js.map": "/my-app/static/js/main.3a969d82.js.map",
+    "453.1407b060.chunk.js.map": "/my-app/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad331e6.css",
+    "static/js/main.3a969d82.js"
+  ]
+}
