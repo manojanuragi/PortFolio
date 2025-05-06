@@ -1,7 +1,7 @@
 import ecommerceImg from "../images/ecommerce.png";
 import quizImg from "../images/Quiz.png";
 import foodImg from "../images/food.png";
-import chatWithPdf from "./ChatWithPdf"
+import Chatbot from "./ChatWithPdf"
 export default function Projects() {
     const projects=[
     {title:"REACT QUIZ",img:quizImg,link:"https://xgy28r-5173.csb.app/", description:"This project buit on react to perform basick functionality of quiz website. It has 10 question on based of react fundamental concepts with time limitation. "},
@@ -14,7 +14,7 @@ export default function Projects() {
 			<h2 className="text-5xl text-stone-500 font-bold text-center">
 				My Projects
 			</h2>
-	    <chatWithPdf/>
+	    <Chatbot/>
             <ul style={{listStyle:'none', }}>
                 {projects.map((project)=>
                        <li key={project.title} className="pt-5"> <div className="p-10 bg-stone-200 flex flex-col justify-center items-center
