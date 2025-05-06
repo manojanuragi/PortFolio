@@ -14,8 +14,10 @@ export default function Projects() {
 			<h2 className="text-5xl text-stone-500 font-bold text-center">
 				My Projects
 			</h2>
-	    <Chatbot/>
+	    
             <ul style={{listStyle:'none', }}>
+                 <Chatbot/>
+
                 {projects.map((project)=>
                        <li key={project.title} className="pt-5"> <div className="p-10 bg-stone-200 flex flex-col justify-center items-center
                        gap-5 lg:flex-row max-w-5xl mx-auto shadow transition 
